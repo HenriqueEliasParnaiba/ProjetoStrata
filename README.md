@@ -1,5 +1,5 @@
 # ProjetoStrata
-Projeto proposto pelo Curso Web Design : HTML5, CSS3 e JS para por em pratica conhecimentos de HTML5 e CSS3. 
+Projeto proposto pelo Curso UDEMY Web Design : HTML5, CSS3 e JS para por em pratica conhecimentos de HTML5 e CSS3. 
 
 <h2>Tecnologias Utilizadas</h2>
 
